@@ -6,13 +6,17 @@ I'm a passionate developer specializing in the MERN stack. I also have experienc
 ## 🚀 Projects
 Here are some of the projects I've been working on:
 
-1. **[Online Treasure Hunt System](link-to-your-project)**  
+1. **[Online Treasure Hunt System](https://jscoecesa.netlify.app)**  
    An online treasure hunt system featuring user and admin logins. Admins can manage questions, answers, and clues, along with a leaderboard and graphical analysis dashboard.  
    **Technologies used**: React, Tailwind CSS.
 
-2. **[Appointment Management System](link-to-your-project)**  
-   A web application for scheduling and managing appointments, allowing users to add, edit, and delete appointments.  
-   **Technologies used**: React, CSS, JSX.
+2. **[Netflix Clone](https://github.com/Rushikesh-Satpute/netflix-clone)**  
+   A responsive web application designed to replicate the core functionalities of Netflix.  
+   - **Responsive UI Design**: Built with Tailwind CSS to ensure seamless performance across devices.  
+   - **Dynamic Content Fetching**: Integrated external APIs for real-time movie data.  
+   - **User Authentication**: Secure sign-up and login with Firebase.  
+   - **Interactive Video Playback**: Implemented intuitive controls for a smooth viewing experience.  
+   **Technologies used**: React, Tailwind CSS, Firebase.
 
 ## 🌱 I’m currently learning
 - New frameworks and tools in web development
