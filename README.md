@@ -6,28 +6,24 @@ I'm a passionate developer specializing in the MERN stack. I also have experienc
 ## 🚀 Projects
 Here are some of the projects I've been working on:
 
-Project Title:                                                                                  December 2024 – Present
-Deployed Url: 
-•	Description:
-•	Smart Check-ins and Check-outs along with Automated room price generation based on addons and other parameters.
-•	Used React, Node.js, Express.js,MongoDB and Tailwind CSS to build the Project.
-
 1. **[Hotel Management System](https://github.com/Rushikesh-Satpute/netflix-clone)**  
    Full-stack project for managing hotel rooms and customers, with room allocation based on available data.
    - Smart Check-ins and Check-outs along with Automated room price generation based on addons and other parameters.
-   **Technologies used**: React, Express.js, Node.Js, MongoDB and Tailwind CSS
+   - **Technologies used**: React, Express.js, Node.Js, MongoDB and Tailwind CSS
 
 2. **[Online Treasure Hunt System](https://jscoecesa.netlify.app)**  
-   An online treasure hunt system featuring user and admin logins. Admins can manage questions, answers, and clues, along with a leaderboard and graphical analysis dashboard.  
-   **Technologies used**: React, Tailwind CSS.
+   An online treasure hunt system featuring user and admin logins. Admins can manage questions, answers, and clues, along with a leaderboard and graphical analysis dashboard.
+   - Admin dashboard with CRUD operations.
+   - Implemented a leaderboard to display user rankings. 
+   - **Technologies used**: React, Tailwind CSS.
 
-3. **[Netflix Clone](https://github.com/Rushikesh-Satpute/netflix-clone)**  
+4. **[Netflix Clone](https://github.com/Rushikesh-Satpute/netflix-clone)**  
    A responsive web application designed to replicate the core functionalities of Netflix.  
    - **Responsive UI Design**: Built with Tailwind CSS to ensure seamless performance across devices.  
    - **Dynamic Content Fetching**: Integrated external APIs for real-time movie data.  
    - **User Authentication**: Secure sign-up and login with Firebase.  
    - **Interactive Video Playback**: Implemented intuitive controls for a smooth viewing experience.  
-   **Technologies used**: React, Tailwind CSS, Firebase.
+   - **Technologies used**: React, Tailwind CSS, Firebase.
 
 ## 🌱 I’m currently learning
 - New frameworks and tools in web development
