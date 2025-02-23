@@ -6,13 +6,15 @@ I'm a passionate developer specializing in the MERN stack. I also have experienc
 ## 🚀 Projects
 Here are some of the projects I've been working on:
 
-1. **[Hotel Management System](https://github.com/Rushikesh-Satpute/netflix-clone)**  
+1. **[Hotel Management System](https://hotelmanagemnt.netlify.app)**  
    Full-stack project for managing hotel rooms and customers, with room allocation based on available data.
+   - [Github](https://github.com/Rushikesh-Satpute/Hotel-Management)
    - Smart Check-ins and Check-outs along with Automated room price generation based on addons and other parameters.
    - **Technologies used**: React, Express.js, Node.Js, MongoDB and Tailwind CSS
 
-2. **[Online Treasure Hunt System](https://jscoecesa.netlify.app)**  
+3. **[Online Treasure Hunt System](https://jscoecesa.netlify.app)**  
    An online treasure hunt system featuring user and admin logins. Admins can manage questions, answers, and clues, along with a leaderboard and graphical analysis dashboard.
+   - [Github](https://github.com/Rushikesh-Satpute/Treasure_hunt)
    - Admin dashboard with CRUD operations.
    - Implemented a leaderboard to display user rankings. 
    - **Technologies used**: React, Tailwind CSS.
