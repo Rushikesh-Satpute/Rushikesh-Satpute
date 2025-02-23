@@ -6,7 +6,7 @@ I'm a passionate developer specializing in the MERN stack. I also have experienc
 ## 🚀 Projects
 Here are some of the projects I've been working on:
 
-1. **[Hotel Management System](https://hotelmanagemnt.netlify.app)**  
+1. **[Hotel Management System](https://hotel-managemnt.vercel.app)**  
    Full-stack project for managing hotel rooms and customers, with room allocation based on available data.
    - [Github](https://github.com/Rushikesh-Satpute/Hotel-Management)
    - Smart Check-ins and Check-outs along with Automated room price generation based on addons and other parameters.
