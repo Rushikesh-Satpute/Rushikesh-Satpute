@@ -12,7 +12,7 @@ Here are some of the projects I've been working on:
    - Smart Check-ins and Check-outs along with Automated room price generation based on addons and other parameters.
    - **Technologies used**: React, Express.js, Node.Js, MongoDB and Tailwind CSS
 
-3. **[Online Treasure Hunt System](https://jscoecesa.netlify.app)**  
+3. **[Online Treasure Hunt System](https://treasure-hunts.vercel.app)**  
    An online treasure hunt system featuring user and admin logins. Admins can manage questions, answers, and clues, along with a leaderboard and graphical analysis dashboard.
    - [Github](https://github.com/Rushikesh-Satpute/Treasure_hunt)
    - Admin dashboard with CRUD operations.
