@@ -1,50 +1,99 @@
-# 👋 Hi there, I'm Rushikesh Satpute!
+# Hey, I'm Rushikesh Satpute 👋✨
 
-## 🌟 About Me
-I'm a passionate developer specializing in the MERN stack. I also have experience with Python, Java, and Android development. I'm always eager to learn new technologies and improve my skills.
+### I build apps, full-stack products, and ideas that deserve better than “just a project”.
 
-## 🚀 Projects
-Here are some of the projects I've been working on:
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=500&lines=Full+Stack+Developer;React+Native+Developer;FastAPI+%2F+Backend+Enthusiast;DSA+%2B+Problem+Solving+Mode+On" alt="Typing SVG" />
 
-1. **[Smart Agri Match Platform](https://play.google.com/store/apps/details?id=com.krushimandi.app)**  
-   - [Github](https://github.com/Krushimandi/Krushimandi-app)
-   - Play store link : [https://play.google.com/store/apps/details?id=com.krushimandi.app](https://play.google.com/store/apps/details?id=com.krushimandi.app)
-   - Led end-to-end product development (mobile + backend) for Krushimandi, designed matching pipeline that matched
-     buyers & farmers based on quality, reducing time to sale by 40%.
-   - Implemented offline-first React Native flows, Firebase sync and background job batching to handle intermittent connectivity.
-   - Introduced CI pipeline (GitHub Actions) for automatic builds & Play Store beta deploys, implemented Crashlytics and basic logging for production monitoring.
-   - **Technologies used**: React Native, Firebase, Node.Js, Zustand
+---
 
-3. **[Hotel Management System](https://hotel-managemnt.vercel.app)**  
-   Full-stack project for managing hotel rooms and customers, with room allocation based on available data.
-   - [Github](https://github.com/Rushikesh-Satpute/Hotel-Management)
-   - Smart Check-ins and Check-outs along with Automated room price generation based on addons and other parameters.
-   - **Technologies used**: React, Express.js, Node.Js, MongoDB and Tailwind CSS
+## 🌟 A little about me
 
-4. **[Online Treasure Hunt System](https://treasure-hunts.vercel.app)**  
-   An online treasure hunt system featuring user and admin logins. Admins can manage questions, answers, and clues, along with a leaderboard and graphical analysis dashboard.
-   - [Github](https://github.com/Rushikesh-Satpute/Treasure_hunt)
-   - Admin dashboard with CRUD operations.
-   - Implemented a leaderboard to display user rankings. 
-   - **Technologies used**: React, Tailwind CSS.
+I’m an Information Technology undergraduate who likes building products that feel real, useful, and scalable.  
+not just “college projects”, but things people can actually use.
 
-5. **[Netflix Clone](https://github.com/Rushikesh-Satpute/netflix-clone)**  
-   A responsive web application designed to replicate the core functionalities of Netflix.  
-   - **Responsive UI Design**: Built with Tailwind CSS to ensure seamless performance across devices.  
-   - **Dynamic Content Fetching**: Integrated external APIs for real-time movie data.  
-   - **User Authentication**: Secure sign-up and login with Firebase.  
-   - **Interactive Video Playback**: Implemented intuitive controls for a smooth viewing experience.  
-   - **Technologies used**: React, Tailwind CSS, Firebase.
+right now, i’m mostly into:
 
-## 🌱 I’m currently learning
-- New frameworks and tools in web development
-- Enhancing my skills in machine learning and data processing
+- building **full-stack and mobile apps**
+- creating smooth user experiences with solid backend logic
+- exploring **AI / LLM-powered products**
+- improving my **DSA + system thinking** side by side
 
-## 💬 Connect with me
-- [LinkedIn](https://www.linkedin.com/in/rushikesh-satpute77)
-- [GitHub](https://github.com/Rushikesh-Satpute)
+basically:  
+**I like turning ideas into shipped products.**
 
-## 📫 How to reach me
-Feel free to reach out via email at [Rushikeshsatpute3558@gmail.com](mailto:Rushikeshsatpute3558@gmail.com).
+---
 
-Thank you for visiting my profile! 🌟
+##  🎯 main character projects 🚀
+
+### 🌾 Smart Agri Match Platform
+**live:** [Play Store](https://play.google.com/store/apps/details?id=com.krushimandi.app)  
+**code:** [GitHub](https://github.com/Krushimandi/Krushimandi-app)
+
+This is one of my most real-world products — built for actual usage, actual users, and actual problems.
+
+**what i did**
+- led end-to-end development across **mobile + backend**
+- implemented **offline-first React Native flows**
+- handled intermittent internet using **Firebase sync + background batching**
+- added **CI pipeline with GitHub Actions**
+
+**stack:** `React Native` `Firebase` `Node.js` `Zustand`
+
+---
+
+### 🏨 Hotel Management System
+**live:** [hotel-management](https://hotel-managemnt.vercel.app)  
+**code:** [GitHub](https://github.com/Rushikesh-Satpute/Hotel-Management)
+
+A full-stack hotel management platform focused on room operations, smooth workflows, and smart pricing logic.
+
+**highlights**
+- smart **check-in / check-out system**
+- automated room pricing based on addons and other factors
+- structured room allocation logic
+- clean UI for management workflows
+
+**stack:** `React` `Express.js` `Node.js` `MongoDB` `Tailwind CSS`
+
+---
+
+### 🗺️ Online Treasure Hunt System
+**live:** [treasure-hunts](https://treasure-hunts.vercel.app)  
+**code:** [GitHub](https://github.com/Rushikesh-Satpute/Treasure_hunt)
+
+An online treasure hunt platform with user/admin flows, game logic, leaderboard support, and admin controls.
+
+**highlights**
+- admin dashboard with CRUD features
+- leaderboard for user rankings
+- separate user/admin handling
+- graphical analysis dashboard
+
+**stack:** `React` `Tailwind CSS`
+
+---
+
+### 🎬 Netflix Clone
+**code:** [GitHub](https://github.com/Rushikesh-Satpute/netflix-clone)
+
+Built this to level up frontend, auth flows, API integration, and responsive UI work.
+
+**highlights**
+- responsive Netflix-style interface
+- dynamic movie data via external APIs
+- Firebase authentication
+- interactive playback experience
+
+**stack:** `React` `Tailwind CSS` `Firebase`
+
+## dsa arc 📈
+- LeetCode: [rushikeshsatpute3558](https://leetcode.com/u/rushikeshsatpute3558/)
+---
+
+##  🔥 current status
+
+```txt
+building products.
+learning deeply.
+improving every week.
+not stopping at tutorial-level dev.
