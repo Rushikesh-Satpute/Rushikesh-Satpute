@@ -9,7 +9,6 @@
 ## 🌟 A little about me
 
 I’m an Information Technology undergraduate who likes building products that feel real, useful, and scalable.  
-not just “college projects”, but things people can actually use.
 
 right now, i’m mostly into:
 
@@ -27,9 +26,9 @@ basically:
 
 ### 🌾 Smart Agri Match Platform
 **live:** [Play Store](https://play.google.com/store/apps/details?id=com.krushimandi.app)  
-**code:** [GitHub](https://github.com/Krushimandi/Krushimandi-app)
+**code:** [GitHub](https://github.com/Rushikesh-Satpute/Krushimandi-app)
 
-This is one of my most real-world products — built for actual usage, actual users, and actual problems.
+This is one of my most real-world products - built for actual usage, actual users, and actual problems.
 
 **what i did**
 - led end-to-end development across **mobile + backend**
@@ -57,43 +56,6 @@ A full-stack hotel management platform focused on room operations, smooth workfl
 
 ---
 
-### 🗺️ Online Treasure Hunt System
-**live:** [treasure-hunts](https://treasure-hunts.vercel.app)  
-**code:** [GitHub](https://github.com/Rushikesh-Satpute/Treasure_hunt)
-
-An online treasure hunt platform with user/admin flows, game logic, leaderboard support, and admin controls.
-
-**highlights**
-- admin dashboard with CRUD features
-- leaderboard for user rankings
-- separate user/admin handling
-- graphical analysis dashboard
-
-**stack:** `React` `Tailwind CSS`
-
----
-
-### 🎬 Netflix Clone
-**code:** [GitHub](https://github.com/Rushikesh-Satpute/netflix-clone)
-
-Built this to level up frontend, auth flows, API integration, and responsive UI work.
-
-**highlights**
-- responsive Netflix-style interface
-- dynamic movie data via external APIs
-- Firebase authentication
-- interactive playback experience
-
-**stack:** `React` `Tailwind CSS` `Firebase`
-
 ## dsa arc 📈
 - LeetCode: [rushikeshsatpute3558](https://leetcode.com/u/rushikeshsatpute3558/)
 ---
-
-##  🔥 current status
-
-```txt
-building products.
-learning deeply.
-improving every week.
-not stopping at tutorial-level dev.
